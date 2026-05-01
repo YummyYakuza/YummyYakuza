@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Arjit Singh
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+**High School Student from India**
 
 Email Me 👉 ✉️ **arjitsingh251211@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
