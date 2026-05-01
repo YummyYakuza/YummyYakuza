@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Arjit Singh
-**High School Student from India**
+**High School Student || CS50 Grinder from India**
 
 Email Me 👉 ✉️ **arjitsingh251211@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
