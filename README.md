@@ -33,6 +33,6 @@ Email Me 👉 ✉️ **arjitsingh251211@gmail.com** For Collaboration/Project or
 ![](https://github-contributor-stats.vercel.app/api?username=Arjit25-dev&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Arjit25-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Arjit25-dev&icon=1&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
