@@ -26,10 +26,6 @@ Email Me 👉 ✉️ **arjitsingh251211@gmail.com** For Collaboration/Project or
 ![](https://github-contributor-stats.vercel.app/api?username=YummyYakuza&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
 ---
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=YummyYakuza.YummyYakuza&"  />
