@@ -28,5 +28,5 @@ Email Me 👉 ✉️ **arjitsingh251211@gmail.com** For Collaboration/Project or
 
 ---
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YummyYakuza.YummyYakuza&"  />
+  ![](https://komarev.com/ghpvc/?username=your-github-YummyYakuza&color=cba6f4)
 </div>
