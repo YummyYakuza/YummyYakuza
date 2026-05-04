@@ -27,6 +27,4 @@ Email Me 👉 ✉️ **arjitsingh251211@gmail.com** For Collaboration/Project or
 
 
 ---
-<div align="left">
-  ![](https://komarev.com/ghpvc/?username=your-github-YummyYakuza&color=cba6f4)
-</div>
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=YummyYakuza)
